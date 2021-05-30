@@ -1,0 +1,17 @@
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Basket.Infra.deps.json
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Basket.Infra.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\ref\Basket.Infra.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Basket.Infra.pdb
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Basket.Domain.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Shared.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Basket.Domain.pdb
+B:\Projetos\Microsservices\Basket\Basket.Infra\bin\Debug\net5.0\Shared.pdb
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.csprojAssemblyReference.cache
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.AssemblyInfoInputs.cache
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.AssemblyInfo.cs
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.csproj.CoreCompileInputs.cache
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.csproj.CopyComplete
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\ref\Basket.Infra.dll
+B:\Projetos\Microsservices\Basket\Basket.Infra\obj\Debug\net5.0\Basket.Infra.pdb

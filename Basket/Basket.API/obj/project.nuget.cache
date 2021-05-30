@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+DkMZAqCI0BTKSY9DTJu799x7MPI55eOCuVCQuq1z7v908xx42uuBEOg9xqLwKSmGBLC7KWecZjbCqDRzDImHQ==",
+  "dgSpecHash": "F0thcC6aoroEnDNOv/keAxTQPBcJJZF/SYHYlES1U/4OZozPgx7L1Kk1SGUr2KfRiPSoOq6IcnnTaKKC08iU3w==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.bson\\2.12.3\\mongodb.bson.2.12.3.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.driver\\2.12.3\\mongodb.driver.2.12.3.nupkg.sha512",

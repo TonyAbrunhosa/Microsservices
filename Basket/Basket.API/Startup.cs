@@ -1,3 +1,4 @@
+using Basket.API.Dependency;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,7 +29,7 @@ namespace Basket.API
         
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.ResolveDependency();
+            services.ResolveDependency();
             services.AddCors(options =>
             {
                 options.AddPolicy(origins, builder => {
@@ -83,9 +84,10 @@ namespace Basket.API
             {
                 s.SwaggerEndpoint("/swagger/v1/swagger.json", "Basket API");
             });
+
             app.UseRouting();
             app.UseCors(origins);
-            app.UseConfigure();
+            //app.UseConfigure();
             app.UseResponseCompression();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
