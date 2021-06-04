@@ -1,0 +1,17 @@
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Discount.Application.deps.json
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Discount.Application.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\ref\Discount.Application.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Discount.Application.pdb
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Discount.Domain.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Shared.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Discount.Domain.pdb
+B:\Projetos\Microsservices\Discount\Discount.Application\bin\Debug\net5.0\Shared.pdb
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.csprojAssemblyReference.cache
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.AssemblyInfoInputs.cache
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.AssemblyInfo.cs
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.csproj.CoreCompileInputs.cache
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.csproj.CopyComplete
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\ref\Discount.Application.dll
+B:\Projetos\Microsservices\Discount\Discount.Application\obj\Debug\net5.0\Discount.Application.pdb

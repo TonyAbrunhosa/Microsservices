@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F0thcC6aoroEnDNOv/keAxTQPBcJJZF/SYHYlES1U/4OZozPgx7L1Kk1SGUr2KfRiPSoOq6IcnnTaKKC08iU3w==",
+  "dgSpecHash": "nxb0xixI434XPpp3aqF6olrS56qJtgUHkOrrmG0ZZxDCPI1wBxzAodPO6zswgR02prQM/+xhYkWs51zronOsxA==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\pipelines.sockets.unofficial\\2.0.17\\pipelines.sockets.unofficial.2.0.17.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\stackexchange.redis\\2.0.593\\stackexchange.redis.2.0.593.nupkg.sha512",

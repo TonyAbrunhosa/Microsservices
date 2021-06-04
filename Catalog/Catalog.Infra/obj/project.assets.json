@@ -230,6 +230,18 @@
           }
         }
       },
+      "Npgsql/5.0.5": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "compile": {
+          "lib/net5.0/Npgsql.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {}
+        }
+      },
       "SharpCompress/0.23.0": {
         "type": "package",
         "dependencies": {
@@ -363,6 +375,7 @@
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0",
           "MongoDB.Driver": "2.12.3",
+          "Npgsql": "5.0.5",
           "Swashbuckle.AspNetCore": "6.1.4",
           "Swashbuckle.AspNetCore.Swagger": "6.1.4"
         },
@@ -706,6 +719,26 @@
         "runtimes/linux/native/libmongocrypt.so",
         "runtimes/osx/native/libmongocrypt.dylib",
         "runtimes/win/native/mongocrypt.dll"
+      ]
+    },
+    "Npgsql/5.0.5": {
+      "sha512": "cvqU1o/gTeX9ynzCEa1NkBEAtGFxLwROw1KweG/giNEYSSw/6W3G7hvYIFIyrdgTorEbLu/AaI2Lxs5TRB4goQ==",
+      "type": "package",
+      "path": "npgsql/5.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Npgsql.dll",
+        "lib/net5.0/Npgsql.xml",
+        "lib/netcoreapp3.1/Npgsql.dll",
+        "lib/netcoreapp3.1/Npgsql.xml",
+        "lib/netstandard2.0/Npgsql.dll",
+        "lib/netstandard2.0/Npgsql.xml",
+        "lib/netstandard2.1/Npgsql.dll",
+        "lib/netstandard2.1/Npgsql.xml",
+        "npgsql.5.0.5.nupkg.sha512",
+        "npgsql.nuspec",
+        "postgresql.png"
       ]
     },
     "SharpCompress/0.23.0": {

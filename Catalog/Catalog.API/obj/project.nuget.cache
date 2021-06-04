@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ocgoJvoYkChuUmXEDdKQk1eVsVv5k7UQKRr9woK6x9NLHBLXRpIzQo6A4CaVqWyVnSFsdZQDfN5cWImNDshkTQ==",
+  "dgSpecHash": "4OeN090y9c6TBHkBJO8t35jx22jfT9K506EdXzd8VI3L0Cn1HaNVMPWPS6KZ3kv1wWH8hHCWnaXoGXghe6W/fw==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",

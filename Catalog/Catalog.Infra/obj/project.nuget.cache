@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dLyOVmc+vCD90hF3+G8b5VlTMxqYfzzr9YG3zkPLzLrBoQXgK03JLADnqo95r8lY9NMXlfEIrBLRIqvynmGMuw==",
+  "dgSpecHash": "mBt77fUTwxiz3M9TaaB9FxqdQLlQVFEAvhj/1hdF8HZ0TOKCjP3gi48Z0rlv2FkqN6oljCrfnOx96BSzLlcmcw==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Infra\\Catalog.Infra.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.driver\\2.12.3\\mongodb.driver.2.12.3.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.driver.core\\2.12.3\\mongodb.driver.core.2.12.3.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
