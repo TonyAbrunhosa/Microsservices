@@ -2,7 +2,6 @@ B:\Projetos\Microsservices\Shared\Shared\bin\Debug\net5.0\Shared.deps.json
 B:\Projetos\Microsservices\Shared\Shared\bin\Debug\net5.0\Shared.dll
 B:\Projetos\Microsservices\Shared\Shared\bin\Debug\net5.0\ref\Shared.dll
 B:\Projetos\Microsservices\Shared\Shared\bin\Debug\net5.0\Shared.pdb
-B:\Projetos\Microsservices\Shared\Shared\obj\Debug\net5.0\Shared.csprojAssemblyReference.cache
 B:\Projetos\Microsservices\Shared\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
 B:\Projetos\Microsservices\Shared\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
 B:\Projetos\Microsservices\Shared\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
