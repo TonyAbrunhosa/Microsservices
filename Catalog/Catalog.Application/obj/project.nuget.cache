@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bwZQPUqfJiQj8T5+EBubvG28SDQYxSQ/yTC3sOUd3peMo/nWSqIJKrKVTb+reio2bpYdga6R/LAVRJKFpDIBig==",
+  "dgSpecHash": "5ma3x4ge5zaWRL3FRr5veki9f2ypop1XE33N6k1WckdCjcmQmcnnoFDtASmQXmU+ihFjNVSPH5n0sDhYe0pFrQ==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
   "expectedPackageFiles": [

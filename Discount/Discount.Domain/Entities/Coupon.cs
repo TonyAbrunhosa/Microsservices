@@ -2,7 +2,7 @@
 
 namespace Discount.Domain.Entities
 {
-    [Table("Coupon")]
+    [Table("coupon")]
     public class Coupon
     {
         [Key]

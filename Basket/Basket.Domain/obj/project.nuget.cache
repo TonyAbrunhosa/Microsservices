@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ClZNxN99NqZPaRaWWEmA+zCXHM3o2KVReIJXo+CriXK+E0itBf9wp4uUalN2h5yjFaCMoP8vkMak7uYvgRPFnA==",
+  "dgSpecHash": "lKVGLI8d9hYxd4uDodAIVwXGUACPbzPjNBmgaTRkN817eOLvoxklKmdmwKOt1W3fep3e7m0bt73ESlAu00Ik4w==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Basket\\Basket.Domain\\Basket.Domain.csproj",
   "expectedPackageFiles": [

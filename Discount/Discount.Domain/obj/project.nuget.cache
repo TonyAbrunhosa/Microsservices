@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RKibsQuSRHxKGp0zFoAtke5fWLDMbpWNL+ghc3KTVTrY//9PLN0rHHyGgCt4OdTT/dvdTTbXlGU6zjsO7tP7DQ==",
+  "dgSpecHash": "JCiT7M7H+R5UADUn9niZ9LVGyjHZKBOnZ3kXBwX4kCEVW6PncpWYl2PyQst0LQ2DUNQwq6Ej7Nx6Uy7MohKWcw==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Discount\\Discount.Domain\\Discount.Domain.csproj",
   "expectedPackageFiles": [

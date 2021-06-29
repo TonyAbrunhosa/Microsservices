@@ -7,10 +7,10 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
 COPY ["Catalog/Catalog.API/Catalog.API.csproj", "Catalog/Catalog.API/"]
-COPY ["Shared/Shared/Shared.csproj", "Shared/Shared/"]
-COPY ["Catalog/Catalog.Application/Catalog.Application.csproj", "Catalog/Catalog.Application/"]
-COPY ["Catalog/Catalog.Domain/Catalog.Domain.csproj", "Catalog/Catalog.Domain/"]
-COPY ["Catalog/Catalog.Infra/Catalog.Infra.csproj", "Catalog/Catalog.Infra/"]
+#COPY ["Shared/Shared/Shared.csproj", "Shared/Shared/"]
+#COPY ["Catalog/Catalog.Application/Catalog.Application.csproj", "Catalog/Catalog.Application/"]
+#COPY ["Catalog/Catalog.Domain/Catalog.Domain.csproj", "Catalog/Catalog.Domain/"]
+#COPY ["Catalog/Catalog.Infra/Catalog.Infra.csproj", "Catalog/Catalog.Infra/"]
 RUN dotnet restore "Catalog/Catalog.API/Catalog.API.csproj"
 COPY . .
 WORKDIR "/src/Catalog/Catalog.API"

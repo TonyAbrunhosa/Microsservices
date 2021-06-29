@@ -1257,8 +1257,8 @@
     },
     "Discount.Infra/1.0.0": {
       "type": "project",
-      "path": "../../../Discount.Infra/Discount.Infra.csproj",
-      "msbuildProject": "../../../Discount.Infra/Discount.Infra.csproj"
+      "path": "../Discount.Infra/Discount.Infra.csproj",
+      "msbuildProject": "../Discount.Infra/Discount.Infra.csproj"
     },
     "Shared/1.0.0": {
       "type": "project",
@@ -1315,14 +1315,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "B:\\Projetos\\Discount.Infra\\Discount.Infra.csproj": {
-              "projectPath": "B:\\Projetos\\Discount.Infra\\Discount.Infra.csproj"
-            },
             "B:\\Projetos\\Microsservices\\Discount\\Discount.Application\\Discount.Application.csproj": {
               "projectPath": "B:\\Projetos\\Microsservices\\Discount\\Discount.Application\\Discount.Application.csproj"
             },
             "B:\\Projetos\\Microsservices\\Discount\\Discount.Domain\\Discount.Domain.csproj": {
               "projectPath": "B:\\Projetos\\Microsservices\\Discount\\Discount.Domain\\Discount.Domain.csproj"
+            },
+            "B:\\Projetos\\Microsservices\\Discount\\Discount.Infra\\Discount.Infra.csproj": {
+              "projectPath": "B:\\Projetos\\Microsservices\\Discount\\Discount.Infra\\Discount.Infra.csproj"
             },
             "B:\\Projetos\\Microsservices\\Shared\\Shared\\Shared.csproj": {
               "projectPath": "B:\\Projetos\\Microsservices\\Shared\\Shared\\Shared.csproj"
@@ -1375,7 +1375,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

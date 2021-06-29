@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mBt77fUTwxiz3M9TaaB9FxqdQLlQVFEAvhj/1hdF8HZ0TOKCjP3gi48Z0rlv2FkqN6oljCrfnOx96BSzLlcmcw==",
+  "dgSpecHash": "2YKD8qtVp2y0DXiY84a3qg5UxeGpkdb5X3t3KbymfF8rl6bcQBRywhiD+3mcDsF7qhXu0kvPW41OQi1D+Q5bLA==",
   "success": true,
   "projectFilePath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Infra\\Catalog.Infra.csproj",
   "expectedPackageFiles": [

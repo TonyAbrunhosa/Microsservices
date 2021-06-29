@@ -26,11 +26,11 @@ namespace Discount.API.Controllers
         [ProducesResponseType(typeof(IEnumerable<Coupon>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ICommandResult), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(ICommandResult), StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> GetDiscount(string userName)
+        public async Task<IActionResult> GetDiscount(string productName)
         {
             try
             {
-                ICommandResult result = await _service.GetDiscount(userName);
+                ICommandResult result = await _service.GetDiscount(productName);
 
                 if (result.Success)
                     return Ok(result);
