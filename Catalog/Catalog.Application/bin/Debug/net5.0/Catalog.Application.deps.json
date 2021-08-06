@@ -163,6 +163,17 @@
           }
         }
       },
+      "Npgsql/5.0.5": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {
+            "assemblyVersion": "5.0.5.0",
+            "fileVersion": "5.0.5.0"
+          }
+        }
+      },
       "SharpCompress/0.23.0": {
         "dependencies": {
           "System.Text.Encoding.CodePages": "4.5.1"
@@ -238,6 +249,7 @@
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0",
           "MongoDB.Driver": "2.12.3",
+          "Npgsql": "5.0.5",
           "Swashbuckle.AspNetCore": "6.1.4",
           "Swashbuckle.AspNetCore.Swagger": "6.1.4"
         },
@@ -364,6 +376,13 @@
       "sha512": "sha512-VUtUAO2W6+DOjBtLHuD9WlTTcxYLXCNfp9YeKcws5LNAl0xej2KX1I37VsTAKnmnMjAF2Vwy1FXLCpK84FglMA==",
       "path": "mongodb.libmongocrypt/1.2.1",
       "hashPath": "mongodb.libmongocrypt.1.2.1.nupkg.sha512"
+    },
+    "Npgsql/5.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cvqU1o/gTeX9ynzCEa1NkBEAtGFxLwROw1KweG/giNEYSSw/6W3G7hvYIFIyrdgTorEbLu/AaI2Lxs5TRB4goQ==",
+      "path": "npgsql/5.0.5",
+      "hashPath": "npgsql.5.0.5.nupkg.sha512"
     },
     "SharpCompress/0.23.0": {
       "type": "package",

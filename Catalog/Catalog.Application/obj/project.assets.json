@@ -963,27 +963,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\": {},
+    "C:\\Users\\Tony\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+      "projectUniqueName": "D:\\ProjetosTony\\ProjetosEstudo\\Microsservices\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
       "projectName": "Catalog.Application",
-      "projectPath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
-      "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-      "outputPath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Application\\obj\\",
+      "projectPath": "D:\\ProjetosTony\\ProjetosEstudo\\Microsservices\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+      "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjetosTony\\ProjetosEstudo\\Microsservices\\Catalog\\Catalog.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tony Abrunhosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -999,8 +997,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
-              "projectPath": "B:\\Projetos\\Microsservices\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
+            "D:\\ProjetosTony\\ProjetosEstudo\\Microsservices\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+              "projectPath": "D:\\ProjetosTony\\ProjetosEstudo\\Microsservices\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
             }
           }
         }
@@ -1029,7 +1027,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
